@@ -15,7 +15,7 @@ Compilate tutto nel migliore dei modi dato che in caso di errori le spese non vi
 ## Step 1 login al portale MyPoli
 Per fare il login al portale MyPoli basta utilizzare lo SPID o CIe, in questo caso dopo il login (fatto in navigazione anonima) dovreste vedere le vostre varie matricole, cliccate su quella che inizia per "d".
 
-### Se non avete SPID o CIe
+### Se non avete SPID o CIe (o la matricola d non compare)
 In questo caso contattate l'Area IT del Poli all'interno 5050 o tramite email a 5050@polito.it e chiedete di fare il reset password del vostro account, in questo modo potrete accedere al portale MyPoli con le vostre credenziali di Ateneo (matricola d e password).
 Questo è necessario dato che il vostro account d quando viene creato non ha una password, quindi è necessario fare il reset password per poter accedere al portale MyPoli.
 

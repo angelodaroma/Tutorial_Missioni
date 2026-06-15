@@ -1,4 +1,4 @@
-# Tutorial Missione PiDay 2026
+# Tutorial procedure missione
 ## Premesse
 In questo tutorial vedremo come creare una missione per il PiDay 2026, in modo da poter partecipare all'evento e ricevere il rimborso delle spese sostenute per la partecipazione.
 Dato la nuova legge di bilancio dall'ultimo anno è necessario utilizzare spese tracciabili se si vuole effettuare un rimborso. Quindi tutte le spese effettuate in contanti (o forse anche Satispay) NON potranno essere rimborsate.
